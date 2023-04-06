@@ -1,1 +1,2 @@
 Ocena: 5
+Zaliczenie: 5.0
